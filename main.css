@@ -382,7 +382,7 @@
 }
  body .birthday_inner__stage .start {
 	 margin-top: 69px;
-	 animation: in 0.8s 2.9s forwards;
+	 animation: in 0.8s 1s forwards;
 	 position: relative;
 	 top: -20px;
 	 opacity: 0;
